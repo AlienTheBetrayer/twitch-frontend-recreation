@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --color-header: #18181b;
+    --color-sidebar: #1f1f23;
+    --color-main: #0e0e10;
+    
+    --color-hover: #35353b;
+    --color-active: #3f3f59;
+    --color-shadowed: #bababb;
+}
+
+* {
+    font-family: 'Inter';
+}
